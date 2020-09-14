@@ -5,37 +5,47 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Contact</title>
+  <link href="./css/styles.css" rel="stylesheet">
   <link href="./css/about.css" rel="stylesheet">
 </head>
 
 <body>
-  <header>
-    <h1>Jane Doe</h1>
-    <nav>
-      <ul>
-        <li class="nav home"><a class="navigation" href="./index.html">Home</a></li>
-        <li class="nav about"><a class="navigation" href="">About</a></li>
-        <li class="nav music"><a class="navigation" href="./music.html">Music</a></li>
-        <li class="nav contact"><a class="navigation" href="/contact.html">Contact</a></li>
+
+  <header id="menu">
+
+    <h1 id="jane-name">Jane Doe</h1>
+
+    <nav class="nav-bar">
+      <ul class="nav-list">
+        <li class="nav home"><a class="nav-options" href="./index.html">Home</a></li>
+        <li class="nav about"><a class="nav-options" href="#">About</a></li>
+        <li class="nav music"><a class="nav-options" href="./music.html">Music</a></li>
+        <li class="nav contact"><a class="nav-options" href="./contact.html">Contact</a></li>
       </ul>
     </nav>
+
   </header>
-  <section class="abouts">
 
-    <h2>About</h2>
-    <h3>"Seattle-based pop star makes her indie debut with a hauntingly beautiful album"</h3>
-    <cite>- John Tirckle, Music Today Post</cite>
+  <section class="about-content">
 
-    <h3>"Jane Doe is one of the scene's breakout starts"</h3>
-    <cite>- John Tirckle, Music Today Post</cite>
+    <h2 id="about-title">About</h2>
 
-    <section class="picture">
-      <img src="./img/jane2.jpg" alt="Foto de Jane Doe com uma paisagem de um lago ao fundo">
-    </section>
+    <h3 class="descrition">"Seattle-based pop star makes her indie debut with a hauntingly beautiful album"</h3>
+    <cite class="citation">- John Tirckle, Music Today Post</cite>
+
+    <h3 class="descrition">"Jane Doe is one of the scene's breakout starts"</h3>
+    <cite class="citation">- John Tirckle, Music Today Post</cite>
+
+    <div class="picture">
+      <img class="jane-picture" src="./img/jane2.jpg" alt="Foto de Jane Doe com uma paisagem de um lago ao fundo">
+    </div>
+
   </section>
-  <footer>
+
+  <footer class="footer">
     © Jane Doe
   </footer>
+
 </body>
 
 </html>

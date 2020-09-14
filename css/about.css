@@ -1,0 +1,25 @@
+.about{
+  font-weight: 900;
+}
+
+.about-content{
+  padding: 150px 200px 20px 200px;
+  text-align: center;
+}
+
+#about-title{
+  font-size: 30px;
+}
+
+.about-content *{
+  padding: 10px;
+}
+
+.picture{
+  margin: 20px auto 0;
+}
+
+.jane-picture{
+  vertical-align: middle;
+  max-width: 50%;
+}
