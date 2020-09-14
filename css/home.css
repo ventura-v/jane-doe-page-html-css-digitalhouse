@@ -1,0 +1,16 @@
+#menu{
+  opacity: 0.8;
+}
+
+.home{
+  font-weight: 900;
+}
+
+.banner .bg-picture{
+  width: 100%;
+  vertical-align: middle;
+}
+
+/* @media (max-width: 900px){
+
+} */
