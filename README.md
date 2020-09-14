@@ -1,4 +1,4 @@
-# Site fictício de uma cantora
+# Site fictício de uma artista
 
 Projeto integrante do curso de Programação Front-end Estação Hack, realizado pela Digital House
 
