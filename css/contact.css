@@ -1,0 +1,21 @@
+.contact{
+  font-weight: 900;
+}
+
+.contact-content{
+  margin: 200px auto 45px;
+  max-width: 70%;
+}
+
+#contact-title{
+  font-size: 30px;
+}
+
+.contact-content #contact, 
+.contact-content .contact-title{
+  padding: 10px 0;
+}
+
+.row{
+  margin-top: 10px;
+}
