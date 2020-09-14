@@ -1,0 +1,22 @@
+.music{
+  font-weight: 900;
+}
+
+.music-content{
+  margin: 200px auto 20px;
+  max-width: 70%;
+}
+
+#music-title{
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+.video{
+  width: 640px;
+  height: 360px;
+}
+
+.music-content .video, .music-content .video-descrition, .credits{
+  padding: 10px;
+}
