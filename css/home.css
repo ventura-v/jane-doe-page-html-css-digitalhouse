@@ -12,6 +12,30 @@
 }
 
 
-@media (max-width: 880px){
+@media (max-width: 630px){
+
+  .banner{
+    padding-top: 170px;
+  }
+
+}
+
+@media (max-width: 460px){
+
+  .banner{
+    padding-top: 250px;
+  }
+
+}
+
+@media (max-width: 200px){
+
+  .banner{
+    display: none;
+  }
+
+  .footer{
+    padding-top: 260px;
+  }
 
 }
