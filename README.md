@@ -1,6 +1,6 @@
 # Site fictício de uma artista
 
-Projeto integrante do curso de Programação Front-end Estação Hack, realizado pela Digital House.
+Projeto integrante do curso de Programação Front-end Estação Hack from Facebook, realizado pela Digital House.
 
 O objetivo do projeto é criar um website para uma cantora, contendo as páginas Home, About, Music e Contact.
 
