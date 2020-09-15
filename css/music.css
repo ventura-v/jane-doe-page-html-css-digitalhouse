@@ -3,20 +3,62 @@
 }
 
 .music-content{
-  margin: 200px auto 20px;
+  margin: 180px auto 20px;
   max-width: 70%;
 }
 
 #music-title{
   font-size: 30px;
   padding-bottom: 10px;
+  padding-right: 50px;
 }
 
-.video{
-  width: 640px;
-  height: 360px;
+.video-description{
+  padding: 20px;
+} 
+
+@media (max-width: 630px){
+
+  #music-title{
+    padding-top: 20px; 
+    padding-bottom: 20px;
+  }
+
 }
 
-.music-content .video, .music-content .video-descrition, .credits{
-  padding: 10px;
+@media (max-width: 800px){
+
+  .video-container iframe {
+    width: 100%;
+    height: 240px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+  }
+}
+
+@media (max-width: 460px){
+
+  .music-content{
+    padding-top: 100px; 
+    padding-bottom: 20px;
+  }
+
+}
+
+@media (max-width: 400px){
+  
+  .video-container iframe{
+    width: 250px;
+    height: 250px;
+  }
+
+}
+
+@media (max-width: 375px){
+  
+  .video-container{
+    display: none;
+  }
+
 }
