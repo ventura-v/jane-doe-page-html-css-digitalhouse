@@ -60,6 +60,20 @@
   margin: 0;
 }
 
-/* @media (max-width: 900px){
+@media (max-width: 630px){
 
-} */
+  .nav-bar{
+    max-width: 70%;
+    margin: 0 auto;
+  }
+
+}
+
+@media (max-width: 460px){
+  
+  .nav-bar{
+    max-width: 60%;
+    margin: 0 auto;
+  }
+
+}

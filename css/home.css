@@ -6,11 +6,12 @@
   font-weight: 900;
 }
 
-.banner .bg-picture{
+.banner-picture{
   width: 100%;
   vertical-align: middle;
 }
 
-/* @media (max-width: 900px){
 
-} */
+@media (max-width: 880px){
+
+}
