@@ -3,7 +3,7 @@
 }
 
 .contact-content{
-  margin: 200px auto 45px;
+  margin: 180px auto 45px;
   max-width: 70%;
 }
 
@@ -18,4 +18,27 @@
 
 .row{
   margin-top: 10px;
+}
+
+.footer{
+  bottom: 0;
+}
+
+@media (max-width: 630px){
+
+  .contact-content{
+    padding-top: 20px; 
+    padding-bottom: 20px;
+  }
+
+}
+
+
+@media (max-width: 460px){
+  
+  .contact-content{
+    padding-top: 100px; 
+    padding-bottom: 20px;
+  }
+
 }
