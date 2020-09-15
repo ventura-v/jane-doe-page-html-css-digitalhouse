@@ -6,7 +6,7 @@ O objetivo do projeto é criar um website para uma cantora, contendo as páginas
 
 O website possui uma barra de navegação na parte superior, onde é possível acessar as outras páginas.
 
-O deploy do projeto foi feito na Netlify e o resultado final pode ser conferido [clicando aqui](https://jane-doe-website.netlify.app).
+O deploy do projeto foi feito no site Netlify e o resultado final pode ser conferido [clicando aqui](https://jane-doe-website.netlify.app).
 
 [![](pitch.gif)](https://jane-doe-website.netlify.app)
 
